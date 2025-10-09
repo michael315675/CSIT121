@@ -1,8 +1,6 @@
 
-    body {
-        background-image:url(/lab04/Images/Light-Wood-Background-Texture.jpg);
-        width: auto;
-        height: auto;
+    html,body{
+    background-image: url('Images/Light-Wood-Background-Texture.jpg');
     }
     
     main nav ul {
