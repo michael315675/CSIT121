@@ -1,0 +1,69 @@
+
+    html,body{
+    background-image: url('Images/Light-Wood-Background-Texture.jpg');
+    margin: 0;
+    }
+
+    h1 {
+        color: black;
+        padding-top: 40px;
+    }
+
+    li {
+
+        font-weight: bold;
+    }
+
+    p {
+        font-weight: bold;
+    }
+
+    footer {
+        font-weight: bold;
+    }
+
+    .topnav {
+        background-color: darkslategray;
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+
+    .topnav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }   
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 10px 16px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    .topnav a:hover {
+        background-color: white;
+        color: black;
+    }
+
+    .topnav a.active {
+        background-color: lightgreen;
+        color: white;
+    }
+
+    .topnav .icon {
+        display: none;
+    }
+
+
+
+
+
+    
